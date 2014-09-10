@@ -1,4 +1,4 @@
-production deployment
+#production deployment
 set :stage, :production
 # use the master branch of the repository
 set :branch, "master"
